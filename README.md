@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning vue.js
 - 📫 How to reach me marc@codingdads.ch
 
-[![wakatime](https://wakatime.com/badge/user/</@miegstroem>.svg)](https://wakatime.com/@<miegstroem>)
+[![wakatime](https://wakatime.com/badge/user/</miegstroem>.svg)](https://wakatime.com/@<miegstroem>)
 
 
 <!---
