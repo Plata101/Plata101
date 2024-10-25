@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Plata101
 - 👀 I’m interested in computer games, rpg, movies, sports
-- 🌱 I’m currently learning vue.js
+- 🌱 I’m still learning vue.js
 - 📫 How to reach me marc@codingdads.ch
 
 [![wakatime](https://wakatime.com/badge/user/9da5b557-dd2b-4c74-a3e1-36653e7195cd.svg)](https://wakatime.com/@miegstroem)
